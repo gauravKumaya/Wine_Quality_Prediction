@@ -14,6 +14,8 @@ class ModelTrainer:
         train_data = pd.read_csv(self.config.train_data_path)
         test_data = pd.read_csv(self.config.test_data_path)
         
+        # print(f"******************{train_data.shape}**************")
+        # print(f'{train_data.columns}')
         X_train = train_data.drop(columns=self.config.target_column)
         X_test = test_data.drop(columns=self.config.target_column)
         y_train = train_data[self.config.target_column]
