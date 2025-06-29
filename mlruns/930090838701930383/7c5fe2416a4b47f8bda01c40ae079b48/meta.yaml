@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Programming/MLOps/Practice/Wine_Quality_Prediction/mlruns/930090838701930383/7c5fe2416a4b47f8bda01c40ae079b48/artifacts
+end_time: 1751231688167
+entry_point_name: ''
+experiment_id: '930090838701930383'
+lifecycle_stage: active
+run_id: 7c5fe2416a4b47f8bda01c40ae079b48
+run_name: dapper-bear-201
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751231679465
+status: 3
+tags: []
+user_id: kumaya_ji

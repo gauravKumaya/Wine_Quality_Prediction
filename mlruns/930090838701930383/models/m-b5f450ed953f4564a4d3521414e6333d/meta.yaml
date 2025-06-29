@@ -1,0 +1,10 @@
+artifact_location: file:///D:/Programming/MLOps/Practice/Wine_Quality_Prediction/mlruns/930090838701930383/models/m-b5f450ed953f4564a4d3521414e6333d/artifacts
+creation_timestamp: 1751231690108
+experiment_id: '930090838701930383'
+last_updated_timestamp: 1751231698984
+model_id: m-b5f450ed953f4564a4d3521414e6333d
+model_type: null
+name: model
+source_run_id: 019bf5cadc2d4f5aae3c08abca19e190
+status: 2
+status_message: null

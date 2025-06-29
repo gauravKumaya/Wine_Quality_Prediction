@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Programming/MLOps/Practice/Wine_Quality_Prediction/mlruns/930090838701930383/20beea615c7b4f82a5dbd9ae97d5008c/artifacts
+end_time: 1751232322605
+entry_point_name: ''
+experiment_id: '930090838701930383'
+lifecycle_stage: active
+run_id: 20beea615c7b4f82a5dbd9ae97d5008c
+run_name: upset-goose-764
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751232309912
+status: 3
+tags: []
+user_id: kumaya_ji

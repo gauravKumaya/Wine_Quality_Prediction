@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Programming/MLOps/Practice/Wine_Quality_Prediction/mlruns/930090838701930383/36d53b0ae7844565820a6f69db66f302/artifacts
+end_time: 1751232728980
+entry_point_name: ''
+experiment_id: '930090838701930383'
+lifecycle_stage: active
+run_id: 36d53b0ae7844565820a6f69db66f302
+run_name: sassy-newt-876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751232721178
+status: 3
+tags: []
+user_id: kumaya_ji

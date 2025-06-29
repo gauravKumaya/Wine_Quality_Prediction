@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Programming/MLOps/Practice/Wine_Quality_Prediction/mlruns/930090838701930383/5ff564b39a334e80a218d32e7e96bd5d/artifacts
+end_time: 1751231687200
+entry_point_name: ''
+experiment_id: '930090838701930383'
+lifecycle_stage: active
+run_id: 5ff564b39a334e80a218d32e7e96bd5d
+run_name: stylish-shark-346
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751231672717
+status: 3
+tags: []
+user_id: kumaya_ji

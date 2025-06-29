@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Programming/MLOps/Practice/Wine_Quality_Prediction/mlruns/930090838701930383/bc29c2c0f406459f9e72e8d9be4414d5/artifacts
+end_time: 1751231751809
+entry_point_name: ''
+experiment_id: '930090838701930383'
+lifecycle_stage: active
+run_id: bc29c2c0f406459f9e72e8d9be4414d5
+run_name: masked-auk-739
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751231743631
+status: 3
+tags: []
+user_id: kumaya_ji

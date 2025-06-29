@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Programming/MLOps/Practice/Wine_Quality_Prediction/mlruns/930090838701930383/7b7b4be0cf8441af890a9ead98fbf024/artifacts
+end_time: 1751232242096
+entry_point_name: ''
+experiment_id: '930090838701930383'
+lifecycle_stage: active
+run_id: 7b7b4be0cf8441af890a9ead98fbf024
+run_name: industrious-shad-487
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751232233908
+status: 3
+tags: []
+user_id: kumaya_ji
