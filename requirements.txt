@@ -9,4 +9,5 @@ mlflow
 python-box
 flask
 flask-Cors
+requests
 -e .

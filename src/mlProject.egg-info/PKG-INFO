@@ -1,4 +1,4 @@
-Metadata-Version: 2.4
+Metadata-Version: 2.2
 Name: mlProject
 Version: 0.0.0
 Summary: A small python package for ml app
@@ -8,6 +8,21 @@ Author-email: gauravkumaya@gmail.com
 Project-URL: Bug Trackers, https://github.com/gauravKumaya/Wine_Qaulity_Prediction/issues
 Dynamic: author
 Dynamic: author-email
+Dynamic: description
 Dynamic: home-page
 Dynamic: project-url
 Dynamic: summary
+
+## End-to-end Machine Learning Project with MLFlow
+
+## Workflows
+
+1. Update config.yaml
+2. Update schema.yaml
+3. Update params.yaml
+4. Update the entity
+5. Update the configuration manager in src config
+6. Update the components
+7. Update the pipeling
+8. Update teh main.py
+9. Update the app.py
