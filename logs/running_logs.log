@@ -891,3 +891,392 @@ x==========x]
 [2025-06-29 17:24:11,141: INFO: main: >>>>>> stage Model Trainer completed <<<<<<
 
 x==========x]
+[2025-06-30 01:13:50,267: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 01:13:50,273: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 01:13:50,276: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 01:13:50,277: INFO: common: created directory at: artifacts]
+[2025-06-30 01:14:17,823: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 01:14:17,826: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 01:14:17,828: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 01:14:17,830: INFO: common: created directory at: artifacts]
+[2025-06-30 01:14:31,418: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 01:14:31,421: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 01:14:31,424: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 01:14:31,426: INFO: common: created directory at: artifacts]
+[2025-06-30 01:15:00,004: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 01:15:00,007: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 01:15:00,010: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 01:15:00,013: INFO: common: created directory at: artifacts]
+[2025-06-30 01:15:00,015: INFO: common: created directory at: artifacts/model_evlauation]
+[2025-06-30 01:15:31,335: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 01:15:31,336: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 01:15:31,339: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 01:15:31,341: INFO: common: created directory at: artifacts]
+[2025-06-30 01:15:31,342: INFO: common: created directory at: artifacts/model_evlauation]
+[2025-06-30 01:16:03,944: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 01:16:03,947: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 01:16:03,949: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 01:16:03,951: INFO: common: created directory at: artifacts]
+[2025-06-30 01:16:03,952: INFO: common: created directory at: artifacts/model_evlauation]
+[2025-06-30 01:16:04,925: INFO: common: json file saved at: artifacts\model_evlauation\metrics.json]
+[2025-06-30 01:18:15,538: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 01:18:15,543: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 01:18:15,545: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 01:18:15,547: INFO: common: created directory at: artifacts]
+[2025-06-30 01:18:15,549: INFO: common: created directory at: artifacts/model_evlauation]
+[2025-06-30 01:18:15,941: INFO: common: json file saved at: artifacts\model_evlauation\metrics.json]
+[2025-06-30 01:21:49,305: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 01:21:49,308: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 01:21:49,311: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 01:21:49,312: INFO: common: created directory at: artifacts]
+[2025-06-30 01:21:49,313: INFO: common: created directory at: artifacts/model_evlauation]
+[2025-06-30 01:22:02,133: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 01:22:02,136: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 01:22:02,138: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 01:22:02,140: INFO: common: created directory at: artifacts]
+[2025-06-30 01:22:02,141: INFO: common: created directory at: artifacts/model_evlauation]
+[2025-06-30 01:22:23,989: INFO: _client: HTTP Request: POST https://dagshub.com/login/oauth/middleman "HTTP/1.1 200 OK"]
+[2025-06-30 01:22:24,783: INFO: _client: HTTP Request: POST https://dagshub.com/login/oauth/access_token "HTTP/1.1 200 OK"]
+[2025-06-30 01:22:25,621: INFO: _client: HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"]
+[2025-06-30 01:22:25,630: INFO: helpers: Accessing as gauravkumaya]
+[2025-06-30 01:22:26,474: INFO: _client: HTTP Request: GET https://dagshub.com/api/v1/repos/gauravkumaya/Wine_Quality_Prediction "HTTP/1.1 200 OK"]
+[2025-06-30 01:22:27,203: INFO: _client: HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"]
+[2025-06-30 01:22:27,217: INFO: helpers: Initialized MLflow to track repo "gauravkumaya/Wine_Quality_Prediction"]
+[2025-06-30 01:22:27,221: INFO: helpers: Repository gauravkumaya/Wine_Quality_Prediction initialized!]
+[2025-06-30 01:22:27,634: INFO: common: json file saved at: artifacts\model_evlauation\metrics.json]
+[2025-06-30 01:24:42,292: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 01:24:42,295: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 01:24:42,299: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 01:24:42,301: INFO: common: created directory at: artifacts]
+[2025-06-30 01:24:42,303: INFO: common: created directory at: artifacts/model_evlauation]
+[2025-06-30 01:24:42,921: INFO: _client: HTTP Request: GET https://dagshub.com/api/v1/repos/gauravkumaya/Wine_Quality_Prediction "HTTP/1.1 200 OK"]
+[2025-06-30 01:24:42,927: INFO: helpers: Initialized MLflow to track repo "gauravkumaya/Wine_Quality_Prediction"]
+[2025-06-30 01:24:42,928: INFO: helpers: Repository gauravkumaya/Wine_Quality_Prediction initialized!]
+[2025-06-30 01:24:43,320: INFO: common: json file saved at: artifacts\model_evlauation\metrics.json]
+[2025-06-30 01:28:23,753: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 01:28:23,756: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 01:28:23,760: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 01:28:23,761: INFO: common: created directory at: artifacts]
+[2025-06-30 01:28:23,763: INFO: common: created directory at: artifacts/model_evlauation]
+[2025-06-30 01:28:24,423: INFO: _client: HTTP Request: GET https://dagshub.com/api/v1/repos/gauravkumaya/Wine_Quality_Prediction "HTTP/1.1 200 OK"]
+[2025-06-30 01:28:24,428: INFO: helpers: Initialized MLflow to track repo "gauravkumaya/Wine_Quality_Prediction"]
+[2025-06-30 01:28:24,430: INFO: helpers: Repository gauravkumaya/Wine_Quality_Prediction initialized!]
+[2025-06-30 01:28:24,832: INFO: common: json file saved at: artifacts\model_evlauation\metrics.json]
+[2025-06-30 01:33:38,638: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 01:33:38,642: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 01:33:38,645: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 01:33:38,648: INFO: common: created directory at: artifacts]
+[2025-06-30 01:33:38,650: INFO: common: created directory at: artifacts/model_evlauation]
+[2025-06-30 01:33:39,249: INFO: _client: HTTP Request: GET https://dagshub.com/api/v1/repos/gauravkumaya/Wine_Quality_Prediction "HTTP/1.1 200 OK"]
+[2025-06-30 01:33:39,256: INFO: helpers: Initialized MLflow to track repo "gauravkumaya/Wine_Quality_Prediction"]
+[2025-06-30 01:33:39,259: INFO: helpers: Repository gauravkumaya/Wine_Quality_Prediction initialized!]
+[2025-06-30 01:33:39,649: INFO: common: json file saved at: artifacts\model_evlauation\metrics.json]
+[2025-06-30 01:34:27,817: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 01:34:27,820: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 01:34:27,823: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 01:34:27,825: INFO: common: created directory at: artifacts]
+[2025-06-30 01:34:27,827: INFO: common: created directory at: artifacts/model_evlauation]
+[2025-06-30 01:34:28,496: INFO: common: json file saved at: artifacts\model_evlauation\metrics.json]
+[2025-06-30 01:36:13,153: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 01:36:13,156: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 01:36:13,160: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 01:36:13,162: INFO: common: created directory at: artifacts]
+[2025-06-30 01:36:13,164: INFO: common: created directory at: artifacts/model_evlauation]
+[2025-06-30 01:38:13,214: WARNING: connectionpool: Retrying (Retry(total=6, connect=7, read=6, redirect=7, status=7)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='127.0.0.1', port=5000): Read timed out. (read timeout=120)")': /api/2.0/mlflow/runs/create]
+[2025-06-30 01:38:50,349: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 01:38:50,351: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 01:38:50,354: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 01:38:50,355: INFO: common: created directory at: artifacts]
+[2025-06-30 01:38:50,356: INFO: common: created directory at: artifacts/model_evlauation]
+[2025-06-30 01:38:50,638: INFO: common: json file saved at: artifacts\model_evlauation\metrics.json]
+[2025-06-30 01:45:48,912: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 01:45:48,916: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 01:45:48,921: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 01:45:48,923: INFO: common: created directory at: artifacts]
+[2025-06-30 01:45:48,925: INFO: common: created directory at: artifacts/model_evlauation]
+[2025-06-30 01:47:32,886: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 01:47:32,889: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 01:47:32,892: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 01:47:32,894: INFO: common: created directory at: artifacts]
+[2025-06-30 01:47:32,896: INFO: common: created directory at: artifacts/model_evlauation]
+[2025-06-30 01:47:32,937: INFO: common: json file saved at: artifacts\model_evlauation\metrics.json]
+[2025-06-30 01:52:54,402: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 01:52:54,405: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 01:52:54,410: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 01:52:54,412: INFO: common: created directory at: artifacts]
+[2025-06-30 01:52:54,414: INFO: common: created directory at: artifacts/model_evlauation]
+[2025-06-30 01:52:54,448: INFO: common: json file saved at: artifacts\model_evlauation\metrics.json]
+[2025-06-30 01:54:50,870: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 01:54:50,872: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 01:54:50,875: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 01:54:50,878: INFO: common: created directory at: artifacts]
+[2025-06-30 01:54:50,880: INFO: common: created directory at: artifacts/model_evlauation]
+[2025-06-30 01:54:50,917: INFO: common: json file saved at: artifacts\model_evlauation\metrics.json]
+[2025-06-30 02:10:17,598: INFO: main: >>>>>> stage Data Ingestion started <<<<<<]
+[2025-06-30 02:10:17,603: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 02:10:17,605: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 02:10:17,607: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 02:10:17,608: INFO: common: created directory at: artifacts]
+[2025-06-30 02:10:17,609: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-06-30 02:10:18,861: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 4D09:ABD04:4548:139F0:6861A4B1
+Accept-Ranges: bytes
+Date: Sun, 29 Jun 2025 20:40:19 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1100022-HYD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1751229619.205721,VS0,VE270
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 2971ad687c217b697e80b73508af5e8ca3b0b246
+Expires: Sun, 29 Jun 2025 20:45:19 GMT
+Source-Age: 0
+
+]
+[2025-06-30 02:10:18,867: INFO: main: >>>>>> stage Data Ingestion completed <<<<<<
+
+x==========x]
+[2025-06-30 02:10:18,869: INFO: main: >>>>>> stage Data Validation started <<<<<<]
+[2025-06-30 02:10:18,874: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 02:10:18,875: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 02:10:18,877: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 02:10:18,878: INFO: common: created directory at: artifacts]
+[2025-06-30 02:10:18,879: INFO: common: created directory at: artifacts/data_validation]
+[2025-06-30 02:10:18,893: INFO: main: >>>>>> stage Data Validation completed <<<<<<
+
+x==========x]
+[2025-06-30 02:10:18,895: INFO: main: >>>>>> stage Data Transformation started <<<<<<]
+[2025-06-30 02:10:18,899: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 02:10:18,900: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 02:10:18,903: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 02:10:18,905: INFO: common: created directory at: artifacts]
+[2025-06-30 02:10:18,905: INFO: common: created directory at: artifacts/data_transformation]
+[2025-06-30 02:10:18,974: INFO: data_transformation: Splitted into trainig and testing sets]
+[2025-06-30 02:10:18,974: INFO: data_transformation: training data shape: (1199, 12)]
+[2025-06-30 02:10:18,976: INFO: data_transformation: testing data shape: (400, 12)]
+[2025-06-30 02:10:18,977: INFO: main: >>>>>> stage Data Transformation completed <<<<<<
+
+x==========x]
+[2025-06-30 02:10:18,977: INFO: main: >>>>>> stage Model Trainer started <<<<<<]
+[2025-06-30 02:10:18,981: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 02:10:18,983: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 02:10:18,997: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 02:10:19,000: INFO: common: created directory at: artifacts]
+[2025-06-30 02:10:19,008: INFO: common: created directory at: artifacts/model_trainer]
+[2025-06-30 02:10:19,045: INFO: main: >>>>>> stage Model Trainer completed <<<<<<
+
+x==========x]
+[2025-06-30 02:10:19,045: INFO: main: >>>>>> stage Model Evaluation started <<<<<<]
+[2025-06-30 02:10:19,049: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 02:10:19,055: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 02:10:19,059: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 02:10:19,060: INFO: common: created directory at: artifacts]
+[2025-06-30 02:10:19,061: INFO: common: created directory at: artifacts/model_evlauation]
+[2025-06-30 02:10:19,665: ERROR: main: name 'save_json' is not defined]
+Traceback (most recent call last):
+  File "D:\Programming\MLOps\Practice\Wine_Quality_Prediction\main.py", line 60, in <module>
+    obj.main()
+    ~~~~~~~~^^
+  File "d:\programming\mlops\practice\wine_quality_prediction\src\mlProject\pipeline\stage_05_model_evaluation.py", line 14, in main
+    model_evaluation_config.log_into_mlflow()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "d:\programming\mlops\practice\wine_quality_prediction\src\mlProject\components\model_evaluation.py", line 46, in log_into_mlflow
+    save_json(path=Path(self.config.metric_file_path), data=scores)
+    ^^^^^^^^^
+NameError: name 'save_json' is not defined
+[2025-06-30 02:12:02,220: INFO: main: >>>>>> stage Data Ingestion started <<<<<<]
+[2025-06-30 02:12:02,226: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 02:12:02,227: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 02:12:02,231: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 02:12:02,234: INFO: common: created directory at: artifacts]
+[2025-06-30 02:12:02,235: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-06-30 02:12:02,236: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2025-06-30 02:12:02,241: INFO: main: >>>>>> stage Data Ingestion completed <<<<<<
+
+x==========x]
+[2025-06-30 02:12:02,241: INFO: main: >>>>>> stage Data Validation started <<<<<<]
+[2025-06-30 02:12:02,246: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 02:12:02,248: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 02:12:02,254: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 02:12:02,256: INFO: common: created directory at: artifacts]
+[2025-06-30 02:12:02,257: INFO: common: created directory at: artifacts/data_validation]
+[2025-06-30 02:12:02,281: INFO: main: >>>>>> stage Data Validation completed <<<<<<
+
+x==========x]
+[2025-06-30 02:12:02,281: INFO: main: >>>>>> stage Data Transformation started <<<<<<]
+[2025-06-30 02:12:02,289: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 02:12:02,291: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 02:12:02,295: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 02:12:02,296: INFO: common: created directory at: artifacts]
+[2025-06-30 02:12:02,297: INFO: common: created directory at: artifacts/data_transformation]
+[2025-06-30 02:12:02,361: INFO: data_transformation: Splitted into trainig and testing sets]
+[2025-06-30 02:12:02,364: INFO: data_transformation: training data shape: (1199, 12)]
+[2025-06-30 02:12:02,364: INFO: data_transformation: testing data shape: (400, 12)]
+[2025-06-30 02:12:02,367: INFO: main: >>>>>> stage Data Transformation completed <<<<<<
+
+x==========x]
+[2025-06-30 02:12:02,372: INFO: main: >>>>>> stage Model Trainer started <<<<<<]
+[2025-06-30 02:12:02,378: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 02:12:02,380: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 02:12:02,387: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 02:12:02,391: INFO: common: created directory at: artifacts]
+[2025-06-30 02:12:02,394: INFO: common: created directory at: artifacts/model_trainer]
+[2025-06-30 02:12:02,413: INFO: main: >>>>>> stage Model Trainer completed <<<<<<
+
+x==========x]
+[2025-06-30 02:12:02,414: INFO: main: >>>>>> stage Model Evaluation started <<<<<<]
+[2025-06-30 02:12:02,419: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 02:12:02,422: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 02:12:02,425: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 02:12:02,426: INFO: common: created directory at: artifacts]
+[2025-06-30 02:12:02,426: INFO: common: created directory at: artifacts/model_evlauation]
+[2025-06-30 02:12:03,096: ERROR: main: name 'Path' is not defined]
+Traceback (most recent call last):
+  File "D:\Programming\MLOps\Practice\Wine_Quality_Prediction\main.py", line 60, in <module>
+    obj.main()
+    ~~~~~~~~^^
+  File "d:\programming\mlops\practice\wine_quality_prediction\src\mlProject\pipeline\stage_05_model_evaluation.py", line 14, in main
+    model_evaluation_config.log_into_mlflow()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "d:\programming\mlops\practice\wine_quality_prediction\src\mlProject\components\model_evaluation.py", line 47, in log_into_mlflow
+    save_json(path=Path(self.config.metric_file_path), data=scores)
+                   ^^^^
+NameError: name 'Path' is not defined
+[2025-06-30 02:12:51,975: INFO: main: >>>>>> stage Data Ingestion started <<<<<<]
+[2025-06-30 02:12:51,979: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 02:12:51,980: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 02:12:51,984: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 02:12:51,985: INFO: common: created directory at: artifacts]
+[2025-06-30 02:12:51,985: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-06-30 02:12:51,986: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2025-06-30 02:12:51,990: INFO: main: >>>>>> stage Data Ingestion completed <<<<<<
+
+x==========x]
+[2025-06-30 02:12:51,990: INFO: main: >>>>>> stage Data Validation started <<<<<<]
+[2025-06-30 02:12:51,994: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 02:12:51,995: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 02:12:51,999: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 02:12:52,000: INFO: common: created directory at: artifacts]
+[2025-06-30 02:12:52,001: INFO: common: created directory at: artifacts/data_validation]
+[2025-06-30 02:12:52,022: INFO: main: >>>>>> stage Data Validation completed <<<<<<
+
+x==========x]
+[2025-06-30 02:12:52,023: INFO: main: >>>>>> stage Data Transformation started <<<<<<]
+[2025-06-30 02:12:52,027: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 02:12:52,029: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 02:12:52,033: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 02:12:52,034: INFO: common: created directory at: artifacts]
+[2025-06-30 02:12:52,035: INFO: common: created directory at: artifacts/data_transformation]
+[2025-06-30 02:12:52,076: INFO: data_transformation: Splitted into trainig and testing sets]
+[2025-06-30 02:12:52,077: INFO: data_transformation: training data shape: (1199, 12)]
+[2025-06-30 02:12:52,077: INFO: data_transformation: testing data shape: (400, 12)]
+[2025-06-30 02:12:52,078: INFO: main: >>>>>> stage Data Transformation completed <<<<<<
+
+x==========x]
+[2025-06-30 02:12:52,078: INFO: main: >>>>>> stage Model Trainer started <<<<<<]
+[2025-06-30 02:12:52,082: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 02:12:52,086: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 02:12:52,088: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 02:12:52,089: INFO: common: created directory at: artifacts]
+[2025-06-30 02:12:52,090: INFO: common: created directory at: artifacts/model_trainer]
+[2025-06-30 02:12:52,108: INFO: main: >>>>>> stage Model Trainer completed <<<<<<
+
+x==========x]
+[2025-06-30 02:12:52,108: INFO: main: >>>>>> stage Model Evaluation started <<<<<<]
+[2025-06-30 02:12:52,112: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 02:12:52,115: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 02:12:52,122: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 02:12:52,123: INFO: common: created directory at: artifacts]
+[2025-06-30 02:12:52,124: INFO: common: created directory at: artifacts/model_evlauation]
+[2025-06-30 02:12:52,558: INFO: common: json file saved at: artifacts\model_evlauation\metrics.json]
+[2025-06-30 02:12:59,953: INFO: main: >>>>>> stage Model Evaluation completed <<<<<<
+
+x==========x]
+[2025-06-30 02:15:35,463: INFO: main: >>>>>> stage Data Ingestion started <<<<<<]
+[2025-06-30 02:15:35,469: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 02:15:35,470: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 02:15:35,473: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 02:15:35,474: INFO: common: created directory at: artifacts]
+[2025-06-30 02:15:35,474: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-06-30 02:15:36,339: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 4D09:ABD04:4548:139F0:6861A4B1
+Accept-Ranges: bytes
+Date: Sun, 29 Jun 2025 20:45:36 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1100020-HYD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1751229937.725189,VS0,VE238
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 459d3a6b1f64e0aa49c719b31e13e4685a95eca5
+Expires: Sun, 29 Jun 2025 20:50:36 GMT
+Source-Age: 0
+
+]
+[2025-06-30 02:15:36,342: INFO: main: >>>>>> stage Data Ingestion completed <<<<<<
+
+x==========x]
+[2025-06-30 02:15:36,343: INFO: main: >>>>>> stage Data Validation started <<<<<<]
+[2025-06-30 02:15:36,346: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 02:15:36,347: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 02:15:36,350: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 02:15:36,350: INFO: common: created directory at: artifacts]
+[2025-06-30 02:15:36,351: INFO: common: created directory at: artifacts/data_validation]
+[2025-06-30 02:15:36,362: INFO: main: >>>>>> stage Data Validation completed <<<<<<
+
+x==========x]
+[2025-06-30 02:15:36,362: INFO: main: >>>>>> stage Data Transformation started <<<<<<]
+[2025-06-30 02:15:36,367: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 02:15:36,369: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 02:15:36,372: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 02:15:36,375: INFO: common: created directory at: artifacts]
+[2025-06-30 02:15:36,378: INFO: common: created directory at: artifacts/data_transformation]
+[2025-06-30 02:15:36,411: INFO: data_transformation: Splitted into trainig and testing sets]
+[2025-06-30 02:15:36,411: INFO: data_transformation: training data shape: (1199, 12)]
+[2025-06-30 02:15:36,412: INFO: data_transformation: testing data shape: (400, 12)]
+[2025-06-30 02:15:36,413: INFO: main: >>>>>> stage Data Transformation completed <<<<<<
+
+x==========x]
+[2025-06-30 02:15:36,414: INFO: main: >>>>>> stage Model Trainer started <<<<<<]
+[2025-06-30 02:15:36,418: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 02:15:36,422: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 02:15:36,424: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 02:15:36,425: INFO: common: created directory at: artifacts]
+[2025-06-30 02:15:36,426: INFO: common: created directory at: artifacts/model_trainer]
+[2025-06-30 02:15:36,446: INFO: main: >>>>>> stage Model Trainer completed <<<<<<
+
+x==========x]
+[2025-06-30 02:15:36,447: INFO: main: >>>>>> stage Model Evaluation started <<<<<<]
+[2025-06-30 02:15:36,451: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-30 02:15:36,453: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-30 02:15:36,457: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-30 02:15:36,458: INFO: common: created directory at: artifacts]
+[2025-06-30 02:15:36,459: INFO: common: created directory at: artifacts/model_evlauation]
+[2025-06-30 02:15:36,932: INFO: common: json file saved at: artifacts\model_evlauation\metrics.json]
+[2025-06-30 02:15:44,232: INFO: main: >>>>>> stage Model Evaluation completed <<<<<<
+
+x==========x]

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Programming/MLOps/Practice/Wine_Quality_Prediction/mlruns/930090838701930383/06edd1a45f29434aad84d68fa1579973/artifacts
+end_time: 1751229944228
+entry_point_name: ''
+experiment_id: '930090838701930383'
+lifecycle_stage: active
+run_id: 06edd1a45f29434aad84d68fa1579973
+run_name: welcoming-chimp-284
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751229936907
+status: 3
+tags: []
+user_id: kumaya_ji

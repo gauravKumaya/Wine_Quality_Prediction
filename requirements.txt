@@ -10,4 +10,5 @@ python-box
 flask
 flask-Cors
 requests
+dagshub
 -e .
