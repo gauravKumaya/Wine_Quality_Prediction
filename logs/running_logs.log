@@ -647,3 +647,52 @@ x==========x]
 [2025-06-29 15:51:12,688: INFO: main: >>>>>> stage Data Transformation completed <<<<<<
 
 x==========x]
+[2025-06-29 16:10:55,931: INFO: main: >>>>>> stage Data Ingestion started <<<<<<]
+[2025-06-29 16:10:55,933: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-29 16:10:55,934: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-29 16:10:55,936: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-29 16:10:55,936: INFO: common: created directory at: artifacts]
+[2025-06-29 16:10:55,937: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-06-29 16:10:56,595: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 5739:2827B:15EB44:43485C:68610743
+Accept-Ranges: bytes
+Date: Sun, 29 Jun 2025 10:40:56 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1100025-HYD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1751193657.679324,VS0,VE296
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: eb10c954ddad989b94ac6969db5ebb4c8708b488
+Expires: Sun, 29 Jun 2025 10:45:56 GMT
+Source-Age: 0
+
+]
+[2025-06-29 16:10:56,598: INFO: main: >>>>>> stage Data Ingestion completed <<<<<<
+
+x==========x]
+[2025-06-29 16:10:56,599: INFO: main: >>>>>> stage Data Validation started <<<<<<]
+[2025-06-29 16:10:56,601: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-29 16:10:56,603: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-29 16:10:56,604: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-29 16:10:56,605: INFO: common: created directory at: artifacts]
+[2025-06-29 16:10:56,606: INFO: common: created directory at: artifacts/data_validation]
+[2025-06-29 16:10:56,612: INFO: main: >>>>>> stage Data Validation completed <<<<<<
+
+x==========x]
+[2025-06-29 16:10:56,613: INFO: main: >>>>>> stage Data Transformation started <<<<<<]
+[2025-06-29 16:10:56,613: INFO: main: >>>>>> stage Data Transformation completed <<<<<<
+
+x==========x]
